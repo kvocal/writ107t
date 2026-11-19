@@ -7,10 +7,10 @@ const config = {
 
   future: {},
 
-  url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/student_template/',
-  organizationName: 'kennyofthesmith',
-  projectName: 'student_template',
+  url: 'https://kvocal.github.io',
+  baseUrl: '/writ107/',
+  organizationName: 'kvocal',
+  projectName: 'writ107',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
