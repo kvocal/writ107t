@@ -8,9 +8,9 @@ Do these steps once, at the start of the project.
 2. **Set your site address.** Open `docusaurus.config.js`, click the pencil icon, and change these lines near the top to use your own GitHub username and repository name:
 ```js
    url: 'https://kvocal.github.io',
-   baseUrl: '/templatewrit107/',
+   baseUrl: '/writ107/',
    organizationName: 'kvocal',
-   projectName: 'templatewrit107',
+   projectName: 'writ107',
    trailingSlash: false,
    onBrokenLinks: 'throw',
 ```
