@@ -7,10 +7,10 @@ Do these steps once, at the start of the project.
 1. **Make your copy.** At the top of this page, click **Use this template** › **Create a new repository**. Give it a short name in lowercase, with hyphens instead of spaces (for example, `zombie-white-paper`). Leave it **Public**, because GitHub Pages only publishes public repositories on a free account.
 2. **Set your site address.** Open `docusaurus.config.js`, click the pencil icon, and change these lines near the top to use your own GitHub username and repository name:
 ```js
-   url: 'https://YOUR-USERNAME.github.io',
-   baseUrl: '/YOUR-REPO-NAME/',
-   organizationName: 'YOUR-USERNAME',
-   projectName: 'YOUR-REPO-NAME',
+   url: 'https://kvocal.github.io',
+   baseUrl: '/templatewrit107/',
+   organizationName: 'kvocal',
+   projectName: 'templatewrit107',
    trailingSlash: false,
    onBrokenLinks: 'throw',
 ```
