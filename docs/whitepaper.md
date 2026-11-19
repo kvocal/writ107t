@@ -24,6 +24,9 @@ The Isla Vista Community Services District[^ivcsd] must immediately draft a form
 
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
+![A crazy picture](/img/unsplashpantry.jpg)
+
+
 Two esteemed biologists have made the following observations about the existence of zombies:
 
 > "We know that they are here and live among us. That has been conclusively proven. The only question is when they are coming for us." — E. O. Wilson
